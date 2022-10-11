@@ -1,0 +1,1 @@
+## Gom nhóm các file và tài liệu liên quan đến từng chức năng bên trong hệ thống
